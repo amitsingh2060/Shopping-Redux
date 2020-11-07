@@ -1,4 +1,4 @@
-import Item1 from '../../images/shirt1.jpg'
+import Item1 from '../../images/shirt4.jpg'
 import Item2 from '../../images/shirt2.jpg'
 
 import { ADD_TO_CART,REMOVE_ITEM,SUB_QUANTITY,ADD_QUANTITY,ADD_SHIPPING } from '../actions/action-types/cart-actions'
